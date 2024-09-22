@@ -188,5 +188,4 @@ Be sure to check their documentation for latest updates regarding their contract
 
 ### Additional Notes
 
-- If testing out the *manipulate.js* script, you'll also want to update the **UNLOCKED_ACCOUNT** variable and adjust **AMOUNT** as needed.#   F l a s h L o a n _ A r b i t r a g e  
- 
+- If testing out the *manipulate.js* script, you'll also want to update the **UNLOCKED_ACCOUNT** variable and adjust **AMOUNT** as needed.#
